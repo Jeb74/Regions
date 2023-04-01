@@ -1,0 +1,5 @@
+name: Regions
+version: '${project.version}'
+main: com.mrccode.regions.Regions
+api-version: 1.19
+load: STARTUP
